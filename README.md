@@ -104,8 +104,8 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 <p align="left">
 #<a href="https://www.linkedin.com/in/nida-parveen-1b8000332"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="mailTo: nidavattathuru@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/nidaparveen1234"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:nidavattathuru@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
