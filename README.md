@@ -100,7 +100,7 @@ A full-stack **MERN** application that helps users manage and organize their exp
 
 ## 🤝 Let's Connect
 
-I'm always open to learning, collaborating, and connecting with fellow developers.
+I'm always open to learning, collaborating, and connecting with fellow developers and make use of this platform.
 
 <p align="left">
 #<a href="https://www.linkedin.com/in/nida-parveen-1b8000332"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
